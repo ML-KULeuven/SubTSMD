@@ -1,0 +1,76 @@
+
+#######################################################
+# GENERAL PROPERTIES
+#######################################################
+data_path = '../../data'
+results_path = '../results'
+
+#######################################################
+# EVALUATION CONFIGURATION
+#######################################################
+
+[evaluation]
+thresholds_subspace = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+threshold_ovr = 0.5
+
+#######################################################
+# PARAMETER GRIDS
+#######################################################
+
+[subspace.parameter_grid]
+delta = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+linkage = ['average', 'complete']
+
+[EMD_star.parameter_grid]
+n_dims = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+elbow_deviation = [1.01, 1.05, 1.1, 1.2, 1.5]
+
+[LAMA.parameter_grid]
+n_dims = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+elbow_deviation = [1.01, 1.05, 1.1, 1.2, 1.5]
+
+[MMotifs.parameter_grid]
+# No hyper parameters to tune
+
+[GrammarVizRePair.parameter_grid]
+alphabet_size = [2, 4, 8, 16]
+word_size = [4, 8, 16, 32]
+
+[LatentMotifs.parameter_grid]
+# No hyper parameters to tune
+
+[LoCoMotif.parameter_grid]
+rho = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+warping = [true, false]
+
+[Motiflets.parameter_grid]
+elbow_deviation = [1.01, 1.05, 1.1, 1.2, 1.5]
+
+[SetFinder.parameter_grid]
+# No hyper parameters to tune
+
+#######################################################
+# SCALABILITY SUB TSMD
+#######################################################
+
+[scalability-sub-tsmd]
+# General config
+seed = 42
+repeat = 10
+
+# Always iterate these
+coverage = [0.5, 0.6, 0.7, 0.8]
+delta = [0.5, 0.75, 0.9, 1.0]
+linkage = ['complete' , 'average']
+
+dimension = [3, 5, 10, 25, 50, 75, 100, 150, 200]
+default_dimension = 50
+
+nb_motifs = [3, 5, 10, 20, 30, 50, 75, 100]
+default_nb_motifs = 60
+
+nb_motif_sets = [1, 2, 5, 10, 15, 20, 25, 30]
+default_nb_motif_sets = 15
+
+l_min = 100
+l_max = 120

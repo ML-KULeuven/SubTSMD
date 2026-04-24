@@ -1,0 +1,1439 @@
+[noisy-attributes."s1@synthetic#16-noisy".EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[noisy-attributes."s1@synthetic#16-noisy".GrammarVizRePair]
+alphabet_size = 4
+word_size = 8
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#16-noisy".LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-attributes."s1@synthetic#16-noisy".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#16-noisy".LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.8
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#16-noisy".MMotifs]
+
+[noisy-attributes."s1@synthetic#16-noisy".Motiflets]
+elbow_deviation = 1.2
+threshold = 0.8
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#16-noisy".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#32-noisy".EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[noisy-attributes."s1@synthetic#32-noisy".GrammarVizRePair]
+alphabet_size = 4
+word_size = 8
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#32-noisy".LAMA]
+n_dims = 3
+elbow_deviation = 1.05
+
+[noisy-attributes."s1@synthetic#32-noisy".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#32-noisy".LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.8
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#32-noisy".MMotifs]
+
+[noisy-attributes."s1@synthetic#32-noisy".Motiflets]
+elbow_deviation = 1.2
+threshold = 0.9
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#32-noisy".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#64-noisy".EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[noisy-attributes."s1@synthetic#64-noisy".GrammarVizRePair]
+alphabet_size = 4
+word_size = 8
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#64-noisy".LAMA]
+n_dims = 3
+elbow_deviation = 1.05
+
+[noisy-attributes."s1@synthetic#64-noisy".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#64-noisy".LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.9
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#64-noisy".MMotifs]
+
+[noisy-attributes."s1@synthetic#64-noisy".Motiflets]
+elbow_deviation = 1.2
+threshold = 0.9
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#64-noisy".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#8-noisy".EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[noisy-attributes."s1@synthetic#8-noisy".GrammarVizRePair]
+alphabet_size = 4
+word_size = 8
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#8-noisy".LAMA]
+n_dims = 3
+elbow_deviation = 1.05
+
+[noisy-attributes."s1@synthetic#8-noisy".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#8-noisy".LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.8
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#8-noisy".MMotifs]
+
+[noisy-attributes."s1@synthetic#8-noisy".Motiflets]
+elbow_deviation = 1.05
+threshold = 0.8
+linkage = "complete"
+full_numba = true
+
+[noisy-attributes."s1@synthetic#8-noisy".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.1-snr".EMD_star]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.1-snr".GrammarVizRePair]
+alphabet_size = 2
+word_size = 16
+threshold = 0.6
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.1-snr".LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.1-snr".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.1-snr".LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.5
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.1-snr".MMotifs]
+
+[noisy-data."s1@synthetic#0.1-snr".Motiflets]
+elbow_deviation = 1.1
+threshold = 0.8
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.1-snr".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.2-snr".EMD_star]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.2-snr".GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.2-snr".LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.2-snr".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.2-snr".LoCoMotif]
+rho = 0.7
+warping = true
+threshold = 0.6
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.2-snr".MMotifs]
+
+[noisy-data."s1@synthetic#0.2-snr".Motiflets]
+elbow_deviation = 1.05
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.2-snr".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.3-snr".EMD_star]
+n_dims = 3
+elbow_deviation = 1.5
+
+[noisy-data."s1@synthetic#0.3-snr".GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.3-snr".LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.3-snr".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.3-snr".LoCoMotif]
+rho = 0.7
+warping = true
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.3-snr".MMotifs]
+
+[noisy-data."s1@synthetic#0.3-snr".Motiflets]
+elbow_deviation = 1.5
+threshold = 0.8
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.3-snr".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.4-snr".EMD_star]
+n_dims = 2
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.4-snr".GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.4-snr".LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.4-snr".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.4-snr".LoCoMotif]
+rho = 0.7
+warping = true
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.4-snr".MMotifs]
+
+[noisy-data."s1@synthetic#0.4-snr".Motiflets]
+elbow_deviation = 1.1
+threshold = 0.8
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.4-snr".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.5-snr".EMD_star]
+n_dims = 2
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.5-snr".GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.5-snr".LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[noisy-data."s1@synthetic#0.5-snr".LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.5-snr".LoCoMotif]
+rho = 0.7
+warping = true
+threshold = 0.6
+linkage = "complete"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.5-snr".MMotifs]
+
+[noisy-data."s1@synthetic#0.5-snr".Motiflets]
+elbow_deviation = 1.01
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[noisy-data."s1@synthetic#0.5-snr".SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[physical-therapy.e1.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e1.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.9
+linkage = "single"
+
+[physical-therapy.e1.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e1.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e1.LoCoMotif]
+rho = 0.4
+warping = true
+threshold = 0.75
+linkage = "average"
+
+[physical-therapy.e1.MMotifs]
+
+[physical-therapy.e1.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e1.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e2.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e2.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e2.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e2.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e2.LoCoMotif]
+rho = 0.1
+warping = false
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e2.MMotifs]
+
+[physical-therapy.e2.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e2.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e3.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e3.GrammarVizRePair]
+alphabet_size = 2
+word_size = 16
+threshold = 0.5
+linkage = "complete"
+
+[physical-therapy.e3.LAMA]
+n_dims = 6
+elbow_deviation = 1.05
+
+[physical-therapy.e3.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e3.LoCoMotif]
+rho = 0.1
+warping = true
+threshold = 0.5
+linkage = "average"
+
+[physical-therapy.e3.MMotifs]
+
+[physical-therapy.e3.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e3.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e4.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e4.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.5
+linkage = "complete"
+
+[physical-therapy.e4.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e4.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e4.LoCoMotif]
+rho = 0.1
+warping = false
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e4.MMotifs]
+
+[physical-therapy.e4.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e4.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e5.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e5.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e5.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e5.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e5.LoCoMotif]
+rho = 0.1
+warping = false
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e5.MMotifs]
+
+[physical-therapy.e5.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e5.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e6.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e6.GrammarVizRePair]
+alphabet_size = 2
+word_size = 16
+threshold = 0.5
+linkage = "average"
+
+[physical-therapy.e6.LAMA]
+n_dims = 6
+elbow_deviation = 1.01
+
+[physical-therapy.e6.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e6.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.5
+linkage = "complete"
+
+[physical-therapy.e6.MMotifs]
+
+[physical-therapy.e6.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+
+[physical-therapy.e6.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e7.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e7.GrammarVizRePair]
+alphabet_size = 2
+word_size = 32
+threshold = 0.25
+linkage = "complete"
+
+[physical-therapy.e7.LAMA]
+n_dims = 10
+elbow_deviation = 1.01
+
+[physical-therapy.e7.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e7.LoCoMotif]
+rho = 0.6
+warping = false
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e7.MMotifs]
+
+[physical-therapy.e7.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e7.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e8.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[physical-therapy.e8.GrammarVizRePair]
+alphabet_size = 2
+word_size = 32
+threshold = 0.5
+linkage = "average"
+
+[physical-therapy.e8.LAMA]
+n_dims = 10
+elbow_deviation = 1.2
+
+[physical-therapy.e8.LatentMotifs]
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e8.LoCoMotif]
+rho = 0.1
+warping = false
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e8.MMotifs]
+
+[physical-therapy.e8.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.25
+linkage = "average"
+
+[physical-therapy.e8.SetFinder]
+threshold = 0.25
+linkage = "average"
+
+[sub-tsmd-bench.articularywordrecognition.EMD_star]
+n_dims = 10
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.articularywordrecognition.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.articularywordrecognition.LAMA]
+n_dims = 10
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.articularywordrecognition.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.articularywordrecognition.LoCoMotif]
+rho = 0.4
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.articularywordrecognition.MMotifs]
+
+[sub-tsmd-bench.articularywordrecognition.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.articularywordrecognition.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.charactertrajectories.EMD_star]
+n_dims = 3
+elbow_deviation = 1.1
+
+[sub-tsmd-bench.charactertrajectories.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.charactertrajectories.LAMA]
+n_dims = 3
+elbow_deviation = 1.5
+
+[sub-tsmd-bench.charactertrajectories.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.charactertrajectories.LoCoMotif]
+rho = 0.6
+warping = false
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.charactertrajectories.MMotifs]
+
+[sub-tsmd-bench.charactertrajectories.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.charactertrajectories.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.cricket.EMD_star]
+n_dims = 6
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.cricket.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.cricket.LAMA]
+n_dims = 6
+elbow_deviation = 1.5
+
+[sub-tsmd-bench.cricket.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.cricket.LoCoMotif]
+rho = 0.3
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.cricket.MMotifs]
+
+[sub-tsmd-bench.cricket.Motiflets]
+elbow_deviation = 1.1
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[sub-tsmd-bench.cricket.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ecg5000.EMD_star]
+n_dims = 1
+elbow_deviation = 1.1
+
+[sub-tsmd-bench.ecg5000.GrammarVizRePair]
+alphabet_size = 4
+word_size = 4
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ecg5000.LAMA]
+n_dims = 1
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.ecg5000.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ecg5000.LoCoMotif]
+rho = 0.1
+warping = true
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ecg5000.MMotifs]
+
+[sub-tsmd-bench.ecg5000.Motiflets]
+elbow_deviation = 1.1
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ecg5000.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ering.EMD_star]
+n_dims = 4
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.ering.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ering.LAMA]
+n_dims = 4
+elbow_deviation = 1.1
+
+[sub-tsmd-bench.ering.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ering.LoCoMotif]
+rho = 0.4
+warping = false
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ering.MMotifs]
+
+[sub-tsmd-bench.ering.Motiflets]
+elbow_deviation = 1.05
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.ering.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.fungi.EMD_star]
+n_dims = 1
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.fungi.GrammarVizRePair]
+alphabet_size = 8
+word_size = 8
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.fungi.LAMA]
+n_dims = 1
+elbow_deviation = 1.5
+
+[sub-tsmd-bench.fungi.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.fungi.LoCoMotif]
+rho = 0.4
+warping = false
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.fungi.MMotifs]
+
+[sub-tsmd-bench.fungi.Motiflets]
+elbow_deviation = 1.5
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.fungi.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.japanesevowels.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.japanesevowels.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.japanesevowels.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.japanesevowels.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.japanesevowels.LoCoMotif]
+rho = 0.6
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.japanesevowels.MMotifs]
+
+[sub-tsmd-bench.japanesevowels.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.japanesevowels.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.mallat.EMD_star]
+n_dims = 1
+elbow_deviation = 1.05
+
+[sub-tsmd-bench.mallat.GrammarVizRePair]
+alphabet_size = 8
+word_size = 8
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.mallat.LAMA]
+n_dims = 1
+elbow_deviation = 1.5
+
+[sub-tsmd-bench.mallat.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.mallat.LoCoMotif]
+rho = 0.5
+warping = false
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.mallat.MMotifs]
+
+[sub-tsmd-bench.mallat.Motiflets]
+elbow_deviation = 1.05
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.mallat.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.natops.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.natops.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.natops.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.natops.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.natops.LoCoMotif]
+rho = 0.5
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.natops.MMotifs]
+
+[sub-tsmd-bench.natops.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.natops.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.pendigits.EMD_star]
+n_dims = 2
+elbow_deviation = 1.5
+
+[sub-tsmd-bench.pendigits.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.5
+linkage = "complete"
+full_numba = true
+
+[sub-tsmd-bench.pendigits.LAMA]
+n_dims = 2
+elbow_deviation = 1.5
+
+[sub-tsmd-bench.pendigits.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.pendigits.LoCoMotif]
+rho = 0.5
+warping = false
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.pendigits.MMotifs]
+
+[sub-tsmd-bench.pendigits.Motiflets]
+elbow_deviation = 1.2
+threshold = 0.5
+linkage = "complete"
+full_numba = true
+
+[sub-tsmd-bench.pendigits.SetFinder]
+threshold = 0.8
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.plane.EMD_star]
+n_dims = 1
+elbow_deviation = 1.1
+
+[sub-tsmd-bench.plane.GrammarVizRePair]
+alphabet_size = 2
+word_size = 16
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.plane.LAMA]
+n_dims = 1
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.plane.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.plane.LoCoMotif]
+rho = 0.6
+warping = false
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.plane.MMotifs]
+
+[sub-tsmd-bench.plane.Motiflets]
+elbow_deviation = 1.2
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.plane.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.spokenarabicdigits.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.spokenarabicdigits.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.spokenarabicdigits.LAMA]
+n_dims = 1
+elbow_deviation = 1.01
+
+[sub-tsmd-bench.spokenarabicdigits.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.spokenarabicdigits.LoCoMotif]
+rho = 0.1
+warping = false
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.spokenarabicdigits.MMotifs]
+
+[sub-tsmd-bench.spokenarabicdigits.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.spokenarabicdigits.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.symbols.EMD_star]
+n_dims = 1
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.symbols.GrammarVizRePair]
+alphabet_size = 4
+word_size = 4
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.symbols.LAMA]
+n_dims = 1
+elbow_deviation = 1.2
+
+[sub-tsmd-bench.symbols.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.symbols.LoCoMotif]
+rho = 0.6
+warping = true
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.symbols.MMotifs]
+
+[sub-tsmd-bench.symbols.Motiflets]
+elbow_deviation = 1.1
+threshold = 1.0
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.symbols.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.uwavegesturelibrary.EMD_star]
+n_dims = 3
+elbow_deviation = 1.05
+
+[sub-tsmd-bench.uwavegesturelibrary.GrammarVizRePair]
+alphabet_size = 2
+word_size = 4
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.uwavegesturelibrary.LAMA]
+n_dims = 3
+elbow_deviation = 1.1
+
+[sub-tsmd-bench.uwavegesturelibrary.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.uwavegesturelibrary.LoCoMotif]
+rho = 0.3
+warping = false
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[sub-tsmd-bench.uwavegesturelibrary.MMotifs]
+
+[sub-tsmd-bench.uwavegesturelibrary.Motiflets]
+elbow_deviation = 1.05
+threshold = 0.5
+linkage = "complete"
+full_numba = true
+
+[sub-tsmd-bench.uwavegesturelibrary.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s1.EMD_star]
+n_dims = 3
+elbow_deviation = 1.5
+
+[synthetic.s1.GrammarVizRePair]
+alphabet_size = 4
+word_size = 8
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[synthetic.s1.LAMA]
+n_dims = 3
+elbow_deviation = 1.01
+
+[synthetic.s1.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s1.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[synthetic.s1.MMotifs]
+
+[synthetic.s1.Motiflets]
+elbow_deviation = 1.05
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[synthetic.s1.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s2.EMD_star]
+n_dims = 2
+elbow_deviation = 1.5
+
+[synthetic.s2.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[synthetic.s2.LAMA]
+n_dims = 3
+elbow_deviation = 1.05
+
+[synthetic.s2.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s2.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[synthetic.s2.MMotifs]
+
+[synthetic.s2.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.7
+linkage = "complete"
+full_numba = true
+
+[synthetic.s2.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s3.EMD_star]
+n_dims = 3
+elbow_deviation = 1.01
+
+[synthetic.s3.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[synthetic.s3.LAMA]
+n_dims = 3
+elbow_deviation = 1.2
+
+[synthetic.s3.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s3.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s3.MMotifs]
+
+[synthetic.s3.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "complete"
+full_numba = true
+
+[synthetic.s3.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s4.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[synthetic.s4.GrammarVizRePair]
+alphabet_size = 2
+word_size = 16
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s4.LAMA]
+n_dims = 6
+elbow_deviation = 1.01
+
+[synthetic.s4.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s4.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.8
+linkage = "average"
+full_numba = true
+
+[synthetic.s4.MMotifs]
+
+[synthetic.s4.Motiflets]
+elbow_deviation = 1.05
+threshold = 0.8
+linkage = "average"
+full_numba = true
+
+[synthetic.s4.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s5.EMD_star]
+n_dims = 1
+elbow_deviation = 1.01
+
+[synthetic.s5.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.6
+linkage = "average"
+full_numba = true
+
+[synthetic.s5.LAMA]
+n_dims = 6
+elbow_deviation = 1.05
+
+[synthetic.s5.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s5.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s5.MMotifs]
+
+[synthetic.s5.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.7
+linkage = "average"
+full_numba = true
+
+[synthetic.s5.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s6.EMD_star]
+n_dims = 5
+elbow_deviation = 1.01
+
+[synthetic.s6.GrammarVizRePair]
+alphabet_size = 2
+word_size = 8
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s6.LAMA]
+n_dims = 6
+elbow_deviation = 1.05
+
+[synthetic.s6.LatentMotifs]
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s6.LoCoMotif]
+rho = 0.8
+warping = true
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s6.MMotifs]
+
+[synthetic.s6.Motiflets]
+elbow_deviation = 1.01
+threshold = 0.5
+linkage = "average"
+full_numba = true
+
+[synthetic.s6.SetFinder]
+threshold = 0.5
+linkage = "average"
+full_numba = true
