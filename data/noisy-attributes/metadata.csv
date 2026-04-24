@@ -1,0 +1,5 @@
+ds_name,base_ds_name,l_min,l_max,D,D_noise,k_max,r,n_avg_train,n_avg_test,n_avg
+s1@synthetic#8-noisy,base,50,50,14,8,8,3.627200397690173,1190.34,1154.435,1161.616
+s1@synthetic#16-noisy,base,50,50,22,16,8,3.627200397690173,1190.34,1154.435,1161.616
+s1@synthetic#32-noisy,base,50,50,38,32,8,3.627200397690173,1190.34,1154.435,1161.616
+s1@synthetic#64-noisy,base,50,50,70,64,8,3.627200397690173,1190.34,1154.435,1161.616

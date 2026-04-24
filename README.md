@@ -73,7 +73,7 @@ If you want to contribute, report bugs, or need help applying SubTSMD for your a
 
 ## Data and experimental results
 
-All data used within this work can be publicly accessed or generated. Check out [data/README.md](data/README.md) for more information. The scripts to reproduce our experiments are available in the [experiments](experiments) folder. We describe how to use these scripts in the [experiments/README.md](experiments/README.md) file.
+All data used within this work can be publicly accessed or generated. Check out [data/README.md](data/README.md) for more information. The scripts to reproduce our experiments[data](data) are available in the [experiments](experiments) folder. We describe how to use these scripts in the [experiments/README.md](experiments/README.md) file.
 
 ## License
 
