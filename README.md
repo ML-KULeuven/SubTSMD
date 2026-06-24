@@ -75,6 +75,20 @@ If you want to contribute, report bugs, or need help applying SubTSMD for your a
 
 All data used within this work can be publicly accessed or generated. Check out [data/README.md](data/README.md) for more information. The scripts to reproduce our experiments are available in the [experiments](experiments) folder. We describe how to use these scripts in the [experiments/README.md](experiments/README.md) file.
 
+## Acknowledgements
+
+If you use SubTSMD in your work, please consider adding the following citation.
+```bibtex
+@article{carpentier2026subtsmd,
+  title={{SubTSMD: discovering subspace motifs with temporal variations in multivariate time series}},
+  author={Carpentier, Louis and Devos, Laurens and Meert, Wannes and Mathias, Verbeke},
+  journal={Data Mining and Knowledge Discovery},
+  doi = {10.1007/s10618-026-01218-7},
+  year = {2026}
+}
+```
+> Carpentier, L., Devos, L., Meert, W. et al. (2026) "SubTSMD: discovering subspace motifs with temporal variations in multivariate time series." _Data Mining and Knowledge Discovery_, doi: [10.1007/s10618-026-01218-7](https://doi.org/10.1007/s10618-026-01218-7).
+
 ## License
 
     MIT License
